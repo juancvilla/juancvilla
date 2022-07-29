@@ -10,3 +10,8 @@ def is_palindrome2(cadena):
     cadena = cadena.lower()
     return cadena == cadena[::-1]
 print(is_palindrome2("ana"))
+print("-")
+def is_palindrome3(cadena):
+    cadena = cadena.lower()
+    return cadena == "".join(reversed(cadena))
+print(is_palindrome3("ana"))
