@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juancvilla
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Anything
+- 👀 I’m interested in K8s + Cloud
+- 💞️ I’m looking to collaborate on k8s
 - 📫 How to reach me: juancvilla@gmail.com
 - https://www.credly.com/badges/e4c96097-a31b-45dc-bee2-649dc0d8b10c/public_url
 - https://www.credly.com/badges/0d4fdb6a-ffb9-4e40-adaa-07629cfa118a/public_url
